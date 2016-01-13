@@ -1,0 +1,1 @@
+registeredPlugins = eu.icred.external.plugin.biis.xssf.Plugin,eu.icred.plugin.shell.Plugin,de.irmnetwork.projects.icred.plugin.Plugin

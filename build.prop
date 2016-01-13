@@ -1,0 +1,4 @@
+PluginClass = eu.icred.external.plugin.biis.xssf.Plugin
+baseCoreProjectPath = D:/workspace/eclipse/icred/base/core
+baseModelProjectPath = D:/workspace/eclipse/icred/base/model
+baseUiProjectPath = D:/workspace/eclipse/icred/base/ui
