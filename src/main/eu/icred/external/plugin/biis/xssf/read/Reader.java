@@ -104,7 +104,6 @@ public class Reader implements IImportWorker {
             Meta meta = container.getMeta();
             meta.setCreated(LocalDateTime.now());
             meta.setCreator("icred with biis-excel plugin");
-            meta.setProcess(Subset.S5_7);
             meta.setFormat("XML");
             meta.setVersion("1-0.6.2");
 
